@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="25.921784">
+    <testcase classname="Example of cucumber usage with selenium" name="Valido acesso da homepage" time="16.057932">
+        <system-out>
+            <![CDATA[Given que acesso a homepage do google.......................................passed
+And valido se a pagina acessada e a homepage do google......................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Example of cucumber usage with selenium" name="Valido acesso ao youtube" time="9.863852">
+        <system-out>
+            <![CDATA[Given que acesso a pagina do youtube........................................passed
+Then valido se a pagina acessa e a pagina do youtube........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
